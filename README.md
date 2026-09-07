@@ -29,7 +29,7 @@ A portable and compact reaction time game with an LCD using **5 LEDs and a pushb
 
 Below is the wiring diagram for the project:
 
-![Wiring Diagram](Wiring_Diagram.png)
+![Wiring Diagram](COMPAKT_Reaction_Time_Game.png)
 
 ### Schematic
 
