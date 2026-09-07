@@ -43,7 +43,7 @@ Below is the schematic generated in Tinkercad:
 
 See the project (may have some issues viewing it on desktop):
 
-[Click here](Portable_LCD_Digital_Thermometer_Image.PNG)
+[Click here](Reaction_Time_Game_Image.png)
 
 ## 🎥 Video Demonstration
 
@@ -58,6 +58,7 @@ Watch the project in action + an explanation of the build:
 - `React_Time_Game_COMPAKT.ino` — Arduino source code
 - `README.md` — Project documentation
 - `LICENSE` — Apache License 2.0
+- `Reaction_Time_Game_Image.png` — Project photo
 - `Wiring_Diagram.png` //soon\\
 - `Schematic.png` //soon\\
 
