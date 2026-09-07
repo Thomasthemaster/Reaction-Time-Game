@@ -41,7 +41,7 @@ Below is the schematic generated in Tinkercad:
 ---
 ## 🖼️ Project Photo
 
-See the project (may have some issues viewing it on desk:
+See the project (may have some issues viewing it on desktop):
 
 [Click here](Portable_LCD_Digital_Thermometer_Image.PNG)
 
