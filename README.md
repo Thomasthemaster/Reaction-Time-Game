@@ -19,6 +19,8 @@ Detects temperature and humidity using the DHT11 Sensor. The Arduino receives th
 - COMPAKT-ness
 - Anti-Cheat
 - Portability
+- Dev-Cheat {Time displayed on LCD is randomly picked between 2 numbers you set no matter your actual reaction time; boundaries adjustable; for when you play}
+- Dev-Rig {Time displayed on LCD is actually more than actual reaction time; amount adjustable; for when you hand it off to your friend}
 
 ---
 
