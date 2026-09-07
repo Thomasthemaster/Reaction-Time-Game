@@ -31,13 +31,20 @@ Below is the wiring diagram for the project:
 
 ![Wiring Diagram](COMPAKT_Reaction_Time_Game.png)
 
+**Note: This wiring diagram was made in Wokwi. Since Wokwi doesn't have a Power MB V2 and some components actually differ from the actual build, the wiring diagram is an approximation of the physical build but retains the correct wiring and functionality.**
+
 ### Schematic
 
 Below is the schematic generated in Tinkercad:
 
 [![Schematic](Schematic.png)](Schematic.png)
 
-**Note: Producing the wiring diagrams and schematics right now!!**
+*Schematic coming soon*
+
+## 🔗 Wokwi Simulation
+Try the interactive simulation of the project here:
+
+[Open in Wokwi](https://wokwi.com/projects/474481508287527937))
 
 ---
 ## 🖼️ Project Photo
