@@ -50,7 +50,7 @@ See the project (may have some issues viewing it on desktop):
 
 Watch the project in action + an explanation of the build:
 
-[▶ Watch the Video](https://youtu.be/F5OSvYSEKDs)
+[▶ Watch the Video](https://youtu.be/86yE3Nd00Po)
 
 ---
 
