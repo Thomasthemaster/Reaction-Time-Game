@@ -29,7 +29,7 @@ A portable and compact reaction time game with an LCD using **5 LEDs and a pushb
 
 Below is the wiring diagram for the project:
 
-![Wiring Diagram](COMPAKT_Reaction_Time_Game.png)
+![Wiring Diagram](COMPAKT_Reaction_Time_Game_Wiring_Diagram.png)
 
 **Note: This wiring diagram was made in Wokwi. Since Wokwi doesn't have a Power MB V2 and some components actually differ from the actual build, the wiring diagram is an approximation of the physical build but retains the correct wiring and functionality.**
 
@@ -67,7 +67,7 @@ Watch the project in action + an explanation of the build:
 - `README.md` — Project documentation
 - `LICENSE` — Apache License 2.0
 - `Reaction_Time_Game_Image.png` — Project photo
-- `Wiring_Diagram.png` //soon\\
+- `COMPAKT_Reaction_Time_Game_Wiring_Diagram.png` — Wiring Diagram 
 - `Schematic.png` //soon\\
 
 ---
