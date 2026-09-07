@@ -6,8 +6,7 @@ A portable and compact reaction time game with an LCD using **5 LEDs and a pushb
 
 ## 🚀 How It Works
 
-4 Green LEDs surrounding the center LED randomly flash until the center Red LED turns on. User must press pushbutton when the Red LED turns on ASAP for their real reaction time. Reaction Time is measured by starting track |WORK IN PROGRESS|
-Detects temperature and humidity using the DHT11 Sensor. The Arduino receives the data from the DHT11 and prints it to the LCD. The user would see a live temperature and humidity display that gets updated every second. The most significant feature is portability. This is made possible by using an Arduino Nano and a Power MB V2 + 9V Battery.
+4 Green LEDs surrounding the center LED randomly flash until the center Red LED turns on. User must press pushbutton when the Red LED turns on ASAP for their real reaction time. Reaction Time is measured from when the Red LED is turned on to when the button is pressed. User then sees their reaction time on the LCD and an option to play again. The Anti-Cheat System works by checking if the button is pressed at intervals and if it is, the system will increase Cheat Score by 1 and if cheat score exceeds the threshold, cheating will be detected. The most significant feature here is compactibility, where we were able to fit many components onto one breadboard.
 
 ### Hardware
 - **Development Board:** Arduino Nano
