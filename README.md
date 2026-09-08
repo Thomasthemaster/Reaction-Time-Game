@@ -68,7 +68,7 @@ Watch the project in action + an explanation of the build:
 - `LICENSE` — Apache License 2.0
 - `Reaction_Time_Game_Image.png` — Project photo
 - `COMPAKT_Reaction_Time_Game_Wiring_Diagram.png` — Wiring Diagram 
-- `Schematic.png` //soon\\
+- `Schematic.png` — Coming Soon!
 
 ---
 
